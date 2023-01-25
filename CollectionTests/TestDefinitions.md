@@ -1,5 +1,5 @@
-**Exercises**
-**Defining the Tests**
+**Exercises**  
+**Defining the Tests**  
 
 public void Test_Collection_EmptyConstructor() { … }
 public void Test_Collection_ConstructorSingleItem() { … }

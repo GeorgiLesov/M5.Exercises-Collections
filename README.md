@@ -1,13 +1,13 @@
 Exercises
 Defining the Tests
 
-public void Test_Collection_EmptyConstructor() { … }
-public void Test_Collection_ConstructorSingleItem() { … }
-public void Test_Collection_ConstructorMultipleItems() { … }
-public void Test_Collection_Add() { … }
-public void Test_Collection_AddWithGrow() { … }
-public void Test_Collection_AddRange() { … }
-public void Test_Collection_GetByIndex() { … }
-public void Test_Collection_GetByInvalidIndex() { … }
-public void Test_Collection_SetByIndex() { … }
-public void Test_Collection_SetByInvalidIndex() { … }
+public void Test_Collection_EmptyConstructor() { â€¦ }
+public void Test_Collection_ConstructorSingleItem() { â€¦ }
+public void Test_Collection_ConstructorMultipleItems() { â€¦ }
+public void Test_Collection_Add() { â€¦ }
+public void Test_Collection_AddWithGrow() { â€¦ }
+public void Test_Collection_AddRange() { â€¦ }
+public void Test_Collection_GetByIndex() { â€¦ }
+public void Test_Collection_GetByInvalidIndex() { â€¦ }
+public void Test_Collection_SetByIndex() { â€¦ }
+public void Test_Collection_SetByInvalidIndex() { â€¦ }

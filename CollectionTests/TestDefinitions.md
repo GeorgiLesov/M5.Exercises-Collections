@@ -1,8 +1,8 @@
 **Exercises**  
 **Defining the Tests**  
 
-public void Test_Collection_EmptyConstructor() { … }  
-public void Test_Collection_ConstructorSingleItem() { … }  
+~~public void Test_Collection_EmptyConstructor() { … }  ~~
+~~public void Test_Collection_ConstructorSingleItem() { … }  ~~
 public void Test_Collection_ConstructorMultipleItems() { … }  
 public void Test_Collection_Add() { … }  
 public void Test_Collection_AddWithGrow() { … }  
